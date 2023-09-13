@@ -1,0 +1,49 @@
+body {
+  background-image: url("assets/bg0.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  backdrop-filter: blur(8px); /* Adjust the blur intensity as needed */
+  font-family: "Poppins", sans-serif; /* Apply the Poppins font */
+  overflow-x: hidden;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.contact-details {
+  display: none;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  position: absolute;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+#result {
+  text-align: center;
+  font-weight: bold;
+}
+
+.list-group {
+  margin-bottom: 50px;
+}
+
+.copyright {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 12px;
+  color: #999;
+}
