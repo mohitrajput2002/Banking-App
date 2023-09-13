@@ -1,6 +1,8 @@
 # Banking-App
 The Banking App is a web-based financial management application, featuring account creation, deposits, withdrawals, and balance inquiries. It leverages HTML, CSS, and JavaScript to provide users with a simple and intuitive banking experience.
 
+Visit the live site: https://mr-banking-app.netlify.app/
+
 ## Features
 
 - Create and manage bank accounts with different types (Savings, Checking).
@@ -17,7 +19,7 @@ The Banking App is a web-based financial management application, featuring accou
 - Bootstrap
 - FontAwesome Icons
 
-## Screenshots
+## Preview
 
 ![Screenshot](https://github.com/mohitrajput2002/Banking-App/blob/a018f1cc74b3d65573c2c151e76b2b1447cf4547/assets/Screenshot.png)
 
@@ -31,7 +33,7 @@ https://github.com/mohitrajput2002/Banking-App.git
 3. Open index.html in your web browser to use the application.
 
 ## Usage
-- Enter the account holder's name and select the account type.
+- Enter the account holder's name, select the account type, etc.
 - Choose a transaction type (Deposit, Withdraw, Check Balance).
 - Fill in the transaction details (amount, account number).
 - Click the "Submit" button to perform the transaction.
